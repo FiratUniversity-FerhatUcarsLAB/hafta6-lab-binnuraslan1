@@ -1,3 +1,9 @@
+/**
+ * Ad Soyad: [Binnur Aslan]
+ * Öğrenci No: [250541084]
+ * Proje: [Not Sistemi]
+ * Tarih: [27/11/2025]
+ */
 import java.util.Scanner;
 
 public class NotSistemi {
@@ -66,4 +72,5 @@ public class NotSistemi {
         scanner.close();
     }
 }
+
 
